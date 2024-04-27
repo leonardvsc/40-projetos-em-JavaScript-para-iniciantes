@@ -1,2 +1,2 @@
-# 40-projetos-em-JavaScript-para-iniciantes
+# 40 projetos em JavaScript para iniciantes
  
