@@ -1,4 +1,4 @@
-## Conceitos importantes tratados nesse tutorial:
+# Conceitos importantes tratados:
 
 - arrays
 - document.getElementById()
